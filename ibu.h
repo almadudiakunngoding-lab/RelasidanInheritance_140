@@ -3,3 +3,5 @@
 #include <vector>
 #include "anak.h"
 class ibu {
+public:
+    
