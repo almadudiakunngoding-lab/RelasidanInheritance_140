@@ -2,3 +2,4 @@
 #define IBU_H
 #include <vector>
 #include "anak.h"
+class ibu {
